@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.exe
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.deps.json
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.runtimeconfig.json
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.dll
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\bin\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.pdb
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.AssemblyInfo.cs
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.dll
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.pdb
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.genruntimeconfig.cache
+C:\Users\franc\source\repos\Ex_NomsCiutats_Net\Ex_NomsCiutats_Net\obj\Debug\netcoreapp3.1\Ex_NomsCiutats_Net.csprojAssemblyReference.cache

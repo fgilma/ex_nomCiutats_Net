@@ -1,0 +1,62 @@
+<script>
+//Fase 1
+//Introducir ciudades y mostrarlas por consola
+var v1,v2,v3,v4,v5,v6;
+v1="Barcelona";
+v2="Madrid";
+v3="Valencia";
+v4="Malaga";
+v5="Cadiz";
+v6="Santander";
+
+var arrayCiudades=[v1,v2,v3,v4,v5,v6];
+console.log("Mostrar ciudades:")
+for (var i=0;i<arrayCiudades.length;i++)
+{
+    console.log(arrayCiudades[i]);
+}
+console.log();
+
+//Fase 2
+//Ordenar ciudades
+console.log("Ciudades ordenadas:")
+arrayCiudades.sort().forEach(element => {
+    console.log(element);
+    
+});
+console.log();
+//Fase 3
+//Modificar a por 4 en las ciudades
+var arrayCiudadesModificadas= [];
+
+console.log("Ciudades modificando a por 4:")
+for (var i=0;i<arrayCiudades.length;i++)
+{
+    arrayCiudadesModificadas[i]=arrayCiudades[i].replace(/a/gi,4);
+}
+arrayCiudadesModificadas.sort().forEach(element=>{
+    console.log(element);
+})
+console.log();
+
+// Crear nuevos arrays con la longitud de cada ciudad
+// y mostrarlas al reves.
+c1=new Array(arrayCiudades[0].length);
+c2=new Array(arrayCiudades[1].length);
+c3=new Array(arrayCiudades[2].length);
+c4=new Array(arrayCiudades[3].length);
+c5=new Array(arrayCiudades[4].length);
+c6=new Array(arrayCiudades[05].length);
+
+var arrayCiudadesReves=[c1,c2,c3,c4,c5,c6];
+
+console.log("Ciudades al revés:");
+for (var i=0;i<arrayCiudades.length;i++)
+{
+    for (var j=arrayCiudades[i].length-1;j>=0;j--){
+        arrayCiudadesReves[i].push(arrayCiudades[i][j]);
+    }
+    console.log(arrayCiudades[i] + " " + arrayCiudadesReves[i].join(''));
+}
+</script>
+
